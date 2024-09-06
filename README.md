@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m passionate about developing digital solutions that prioritise user experience, ensuring every designis both functional and accessible.<br>My goal is to build apps and websites that offer users a genuinely engaging and intuitive experience.
+I’m passionate about developing digital solutions that prioritise user experience, ensuring every designis both functional and accessible. My goal is to build apps and websites that offer users a genuinely engaging and intuitive experience.
 
 
 ## 🌐 Socials:
@@ -12,10 +12,3 @@ I’m passionate about developing digital solutions that prioritise user experie
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ad98974771&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad98974771&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ad98974771&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ad98974771&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
